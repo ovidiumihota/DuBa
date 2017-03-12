@@ -1,7 +1,7 @@
 import { Component, ViewChild } from '@angular/core';
 
 import { Events, MenuController, Nav, Platform } from 'ionic-angular';
-import { HomePage } from '../pages/about/about';
+import { HomePage } from '../pages/home/home';
 
 
 @Component({
@@ -15,7 +15,6 @@ export class DuBaApp {
 
   constructor(
   ) {
-    this.nav.setRoot(HomePage)
   }
-  
+
 }

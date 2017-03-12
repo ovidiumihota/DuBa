@@ -4,7 +4,7 @@ import { IonicApp, IonicModule } from 'ionic-angular';
 
 import { DuBaApp } from './app.component';
 
-import { HomePage } from '../pages/about/about';
+import { HomePage } from '../pages/home/home';
 
 
 @NgModule({

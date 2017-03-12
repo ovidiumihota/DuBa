@@ -4,10 +4,10 @@ import { Component } from '@angular/core';
   selector: 'page-home',
   templateUrl: 'home.html'
 })
-export class AboutPage {
+export class HomePage {
 
   constructor() { 
-    
+
   }
 
 
